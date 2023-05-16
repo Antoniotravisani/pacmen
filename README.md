@@ -1,7 +1,7 @@
-# pacmen
+# Pacmen
 <img src="PacMan1.png">
 
-## DESCRIPTION
+## [DESCRIPTION]
 
 Factory for making pacmen
 You are given a starter.html code.
